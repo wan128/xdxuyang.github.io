@@ -14,12 +14,12 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: homepage of Xu Yang
+      title: homepage of Fuli Wan
 
-description: Homepage of Xu Yang
+description: Homepage of Fuli Wan
 author:
-  name: Xu Yang
-  email: xuyang.xd@gmail.com
+  name: Fuli Wan
+  email: wfl128.xidian@gmail.com
   #github: dbtek
   #twitter: dbtek
   #pinterest: asd123
